@@ -4,11 +4,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/shreyashkadam/bookify">
-    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/4228c436-660c-4272-bd5d-6a0afa2ed59f" alt="Logo" width="288">
+    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/9c113702-1e1d-428a-99f4-7729d9d257d1" alt="Logo" width="288">
   </a>
-  ![Uploading aimasslogo (1).png…]()
 
-  
 
 <h3 align="center">AimAssist</h3>
 
@@ -126,6 +124,7 @@
     </li>
   <ul>
 
+---
 
 ## Problem Statement
 The lack of safe and accessible training methods for sharpshooting skills poses a challenge for military and law enforcement personnel, as well as civilian firearms enthusiasts. Traditional training methods require expensive ammunition and range time, making it difficult for individuals to maintain their skills on a regular basis. Additionally, these methods often provide limited feedback and may not accurately simulate real-world scenarios.
@@ -174,16 +173,7 @@ Project Link: [https://github.com/shreyashkadam/bookify](https://github.com/shre
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/shreyashkadam/bookify.svg?style=for-the-badge
-[contributors-url]: https://github.com/shreyashkadam/bookify/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shreyashkadam/bookify.svg?style=for-the-badge
-[forks-url]: https://github.com/shreyashkadam/bookify/network/members
-[stars-shield]: https://img.shields.io/github/stars/shreyashkadam/bookify.svg?style=for-the-badge
-[stars-url]: https://github.com/shreyashkadam/bookify/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shreyashkadam/bookify.svg?style=for-the-badge
-[issues-url]: https://github.com/shreyashkadam/bookify/issues
-[license-shield]: https://img.shields.io/github/license/shreyashkadam/bookify.svg?style=for-the-badge
-[license-url]: https://github.com/shreyashkadam/bookify/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shreyash-kadam
 [product-screenshot]: https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/a31f6439-4568-4577-a08c-aa157a303417
