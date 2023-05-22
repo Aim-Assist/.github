@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/51134916-5985-419e-b7a8-1eff913310f7)
+[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/9dca2734-1fad-440c-bed5-78418f4ca4ec)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,4 +170,4 @@ Project Link: [https://github.com/shreyashkadam/bookify](https://github.com/shre
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
-[product-screenshot]: https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/51134916-5985-419e-b7a8-1eff913310f7
+[product-screenshot]: https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/9dca2734-1fad-440c-bed5-78418f4ca4ec
