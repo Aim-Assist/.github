@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shreyashkadam/bookify">
-    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/a31f6439-4568-4577-a08c-aa157a303417" alt="Logo" width="288">
+    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/cefbdf9c-a6dc-4181-bc73-f3966762f937" alt="Logo" width="288">
   </a>
 
 <h3 align="center">AimAssist</h3>
@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/a31f6439-4568-4577-a08c-aa157a303417)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,20 +108,20 @@
 
 ## Repositories
 
-<ul>
-  <li>
-    <a href="https://github.com/Ultimate-Coders-Projects/aimassist-server">AimAssist Server</a>
-  </li>
-  <li>
-    <a href="https://github.com/Ultimate-Coders-Projects/aimassist-raspberrypi">AimAssist RaspberryPi</a>
-  </li>
-  <li>
-    <a href="https://github.com/Ultimate-Coders-Projects/aimassist-web">AimAssist Web</a>
-  </li>
-  <li>
-    <a href="https://github.com/Ultimate-Coders-Projects/aimassit_app">AimAssist App</a>
-  </li>
-<ul>
+  <ul>
+    <li>
+      <a href="https://github.com/Ultimate-Coders-Projects/aimassist-server">AimAssist Server</a>
+    </li>
+    <li>
+      <a href="https://github.com/Ultimate-Coders-Projects/aimassist-raspberrypi">AimAssist RaspberryPi</a>
+    </li>
+    <li>
+      <a href="https://github.com/Ultimate-Coders-Projects/aimassist-web">AimAssist Web</a>
+    </li>
+    <li>
+      <a href="https://github.com/Ultimate-Coders-Projects/aimassit_app">AimAssist App</a>
+    </li>
+  <ul>
 
 
 ## Problem Statement
@@ -183,7 +183,7 @@ Project Link: [https://github.com/shreyashkadam/bookify](https://github.com/shre
 [license-url]: https://github.com/shreyashkadam/bookify/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shreyash-kadam
-[product-screenshot]: readme-images/screenshot.png
+[product-screenshot]: https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/a31f6439-4568-4577-a08c-aa157a303417
 [product-screenshot1]: readme-images/screenshot1.png
 [product-screenshot2]: readme-images/screenshot2.png
 [product-screenshot3]: readme-images/screenshot3.png
