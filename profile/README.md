@@ -10,7 +10,7 @@
 <h3 align="center">AimAssist</h3>
 
   <p align="center">
-    Revolutionize sharpshooting training with our laser-based system, providing safe, accurate, and personalized skill development for defense purposes
+    An advanced laser-based system for sharpshooting training that offers safe, accurate, and personalized skill development, benefiting defense training and improving shooting proficiency
     <br />
     <br />
     <a href="https://github.com/Ultimate-Coders-Projects/aimassist-server">AimAssist Server</a>
