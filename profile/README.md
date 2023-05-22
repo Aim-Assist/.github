@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/shreyashkadam/bookify">
+  <a href="https://github.com/Ultimate-Coders-Projects">
     <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/logo.png" alt="Logo" width="288">
   </a>
 
@@ -161,7 +161,6 @@ The anticipated social impact of our laser-based sharpshooting training system i
 ## Contact
 
 Shreyash Kadam - [@linkedin-handle](https://linkedin.com/in/shreyash-kadam) - shreyash.kadam10@gmail.com
-Dhiraj Shelke
 
 Project Link: [https://github.com/shreyashkadam/bookify](https://github.com/shreyashkadam/bookify)
 
