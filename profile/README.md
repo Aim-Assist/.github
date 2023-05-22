@@ -164,8 +164,6 @@ Shreyash Kadam - [@linkedin-handle](https://linkedin.com/in/shreyash-kadam) - sh
 <br>
 Dhiraj Shelke - [@linkedin-handle](https://www.linkedin.com/in/dhiraj-shelke-27b808201/) - dhirajshelke16@gmail.com
 
-Project Link: [https://github.com/shreyashkadam/bookify](https://github.com/shreyashkadam/bookify)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
