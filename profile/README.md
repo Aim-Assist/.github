@@ -4,8 +4,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ultimate-Coders-Projects">
-    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/logo.png" alt="Logo" width="288">
-  </a>
+    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/9674288f-4ba5-4107-b851-e91b330c18d6" alt="Logo" width="288">
+  </a>  
 
 <h3 align="center">AimAssist</h3>
 
@@ -14,11 +14,11 @@
     <br />
     <br />
     <a href="https://github.com/Ultimate-Coders-Projects/aimassist-server">AimAssist Server</a>
-    .
+    ⚪
     <a href="https://github.com/Ultimate-Coders-Projects/aimassist-raspberrypi">AimAssist RaspberryPi</a>
-    .
+    ⚪
     <a href="https://github.com/Ultimate-Coders-Projects/aimassist-web">AimAssist Web</a>
-    .
+    ⚪
     <a href="https://github.com/Ultimate-Coders-Projects/aimassit_app">AimAssist App</a>
   </p>
 </div>
@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/screenshot.png)
+[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/51134916-5985-419e-b7a8-1eff913310f7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,4 +170,4 @@ Project Link: [https://github.com/shreyashkadam/bookify](https://github.com/shre
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
-[product-screenshot]: https://github.com/Ultimate-Coders-Projects/.github/assets/screenshot.png
+[product-screenshot]: https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/51134916-5985-419e-b7a8-1eff913310f7
