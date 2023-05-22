@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shreyashkadam/bookify">
-    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/9c113702-1e1d-428a-99f4-7729d9d257d1" alt="Logo" width="288">
+    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/logo.png" alt="Logo" width="288">
   </a>
 
 
@@ -45,7 +45,7 @@
 
 ## About The Project
 
-[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/a31f6439-4568-4577-a08c-aa157a303417)
+[![Graphical Representation][product-screenshot]](https://github.com/Ultimate-Coders-Projects/.github/assets/screenshot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
