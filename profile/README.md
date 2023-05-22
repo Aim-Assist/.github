@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/shreyashkadam/bookify">
-    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/cefbdf9c-a6dc-4181-bc73-f3966762f937" alt="Logo" width="288">
+    <img src="https://github.com/Ultimate-Coders-Projects/.github/assets/108567267/4228c436-660c-4272-bd5d-6a0afa2ed59f" alt="Logo" width="288">
   </a>
 
 <h3 align="center">AimAssist</h3>
